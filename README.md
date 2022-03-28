@@ -6,11 +6,11 @@
      <img alt="Made by Hosana Barcelos & Isabele Moreira" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS & ISABELE MOREIRA -%15C3D6?style=flat-square&color=2B0E00&labelColor=000">
 </p>
 
-## Projeto 🔎
+## Descrição do Projeto 🔎
 
 **HI Coffee** é uma cafeteria carioca (fictícia), presente em diversos lugares do estado do Rio de Janeiro, que procura aprimorar sua análise de dados (clientes, lucros, lugares mais frequentados, etc). Pérola Silva (Gerente da cafeteria), procurou uma equipe de desenvolvimento especializada em BI para implementar um sistema inteligente para sua cafeteria, com o desejo de ter mais informações e dados sobre o funcionamento do negócio.
 
-## Ferramentas e Tecnologias ⚙️
+## Ferramentas e Tecnologias 🛠️
 
 Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
 
