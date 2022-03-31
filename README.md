@@ -25,6 +25,7 @@ Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
  - [x] <s>Modelo Transacional</s>
  - [x] <s>Base de dados (scripts)</s>
  - [x] <s>Modelo Multidimensional</s>
+ - Data Warehouse
  - ETL
  - Dashboards
 
