@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-     <img alt="Made by Hosana Barcelos & Isabele Moreira" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS & ISABELE MOREIRA -%15C3D6?style=flat-square&color=2B0E00&labelColor=000">
+     <img alt="HI coffee" src="https://img.shields.io/badge/Business Intelligence- © HI, coffee! -%15C3D6?style=flat-square&color=2B0E00&labelColor=000">
 </p>
 
 ## Descrição do Projeto 🔎
@@ -25,6 +25,8 @@ Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
  - [x] <s>Modelo Transacional</s>
  - [x] <s>Base de dados (scripts)</s>
  - [x] <s>Modelo Multidimensional</s>
+ - Data Warehouse
  - ETL
  - Dashboards
+
 
