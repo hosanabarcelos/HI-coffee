@@ -31,7 +31,7 @@
  
  > Análise Geral
  <p>
-    <img alt="Dashboard" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/5%20-%20Dashboards/Imagens/Dashboard.png" width="600"/>
+    <img alt="Dashboard" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/4%20-%20Dashboards/Imagens/Dashboard.png" width="600"/>
 </p>
 
  ## 👥 Colaboradores 
