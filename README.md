@@ -20,16 +20,21 @@ Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
 
 ## Fases do Projeto ➡️
 
-> Status: Em andamento... ⌛
+> Status: Concluído ✅
  - [x] <s>Levantamento de Requisitos</s>
  - [x] <s>Modelo Transacional</s>
  - [x] <s>Base de dados (scripts)</s>
  - [x] <s>Modelo Multidimensional</s>
  - [x] <s>Data Warehouse</s>
  - [x] <s>ETL</s>
- - Dashboards
-
----
+ - [x] <s>Dashboard</s>
+ 
+ ## Dashboards 🎨
+ 
+ > Análise Geral
+<h1>
+    <img alt="Dashboard" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/5%20-%20Dashboards/Imagens/Dashboard.png" width="600"/>
+</h1>
 
 Feito com 🤎 by [Hosana Barcelos](https://github.com/hosanabarcelos).
 
