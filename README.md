@@ -38,7 +38,7 @@
  
  > Colaboradores durante o desenvolvimento do projeto
 - [Isabele Moreira](https://github.com/IsabeleMoreira)
-- [Victor Emanuel](https://github.com/VictorEMF/Live-Book) 
+- [Victor Emanuel](https://github.com/VictorEMF) 
 
 ---
 Feito com 🤎 by [Hosana Barcelos](https://github.com/hosanabarcelos).
