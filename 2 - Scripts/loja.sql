@@ -1,5 +1,5 @@
 create table loja (
-	cod_loja INT,
+	cod_loja INT PRIMARY KEY,
 	cidade VARCHAR(50),
 	CNPJ CHAR(17)
 );

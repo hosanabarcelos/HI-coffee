@@ -1,5 +1,5 @@
 create table produto (
-	cod_produto INT,
+	cod_produto INT PRIMARY KEY,
 	nome VARCHAR(50),
 	preço FLOAT
 );

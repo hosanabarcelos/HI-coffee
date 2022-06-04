@@ -1,5 +1,5 @@
 create table cliente (
-	cod_cliente INT,
+	cod_cliente INT PRIMARY KEY,
 	cpf CHAR(14),
 	nome_completo VARCHAR(50),
 	email VARCHAR(50),
