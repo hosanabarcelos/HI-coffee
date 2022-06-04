@@ -13,6 +13,8 @@
 - brModelo
 - PostgreSQL
 - Power Architect
+- Pentaho Data Integration
+- Power BI
 
 ## ➡️ Fases do Projeto 
 
