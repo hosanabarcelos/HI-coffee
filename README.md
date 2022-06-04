@@ -1,9 +1,5 @@
-<h1 align="center">
-    <img alt="HICoffee" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/.github/logo.jpeg" width="180" height="180" />
-</h1>
-
 <p align="center">
-     <img alt="HI coffee" src="https://img.shields.io/badge/made by- HOSANA BARCELOS & ISABELE MOREIRA -%15C3D6?style=flat-square&color=2B0E00&labelColor=000">
+    <img alt="HICoffee" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/.github/logo.jpeg" width="180" height="180" />
 </p>
 
 ## Descrição do Projeto 🔎
@@ -12,7 +8,7 @@
 
 ## Ferramentas e Tecnologias 🛠️
 
-Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
+> Ferramentas e tecnologias utilizadas no desenvolvimento do projeto
 
 - brModelo
 - PostgreSQL
@@ -32,9 +28,16 @@ Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
  ## Dashboards 🎨
  
  > Análise Geral
-<h1>
+ <p>
     <img alt="Dashboard" src="https://github.com/hosanabarcelos/HI-coffee/blob/main/5%20-%20Dashboards/Imagens/Dashboard.png" width="600"/>
-</h1>
+</p>
 
+ ## Colaboradores 👥
+ 
+ > Colaboradores durante o desenvolvimento do projeto
+- [Isabele Moreira](https://github.com/IsabeleMoreira)
+- [Victor Emanuel](https://github.com/VictorEMF/Live-Book) 
+
+---
 Feito com 🤎 by [Hosana Barcelos](https://github.com/hosanabarcelos).
 
